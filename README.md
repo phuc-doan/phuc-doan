@@ -1,14 +1,25 @@
 🎉 Glad you made it here 😄
 
-I'm Phuc Doan 😺
-⁉️ Let's get to know me
-🔭 Exploring Cloud Computing ☁️ & System Admin 🖥️
-⭐ Worked in FPT FIM as Intern during my gap year.
-🎓 Enrolled at Posts & Telecomunication information and Technology, class of 2022 🐪
-😄 Pronouns: He,him, his
-🧐 Enjoy cooking & playing guitar 🎸 in my free time. Watching "F.R.I.E.N.D.S" 🌟 right now.
+## I'm Phuc Doan 😺
+
+*⁉️ Let's get to know me*
+
+- 🔭 Exploring Cloud Computing ☁️ & System Admin 🖥️
+
+- ⭐ Worked in FPT FIM as Sysadmin during my gap year.
+
+- 🎓 Enrolled at Posts & Telecomunication information and Technology, class of 2022 🐪
+
+- 😄 Pronouns: He,him, his
+
+- 🧐 Enjoy cooking & playing guitar 🎸 in my free time.
+
+**Performance:**
+
+
 
 ⚡ Technologies
+
 
 📃 Languages
 
